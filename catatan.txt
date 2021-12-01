@@ -1,3 +1,11 @@
-#Section 11: Send Emails | 224. Setup
+#Section 11: Send Emails | 225. Setup
     npm install && npm start
      browser: http://localhost:3000
+
+#Section 11: Send Emails | 226. Nodemailer Info
+    Documentation: https://nodemailer.com/about/
+
+#Section 11: Send Emails | 227. Ethereal Info and Account
+    Documentation: https://ethereal.email/create
+
+#Section 11: Send Emails | 228. Send Email With Ethereal 
